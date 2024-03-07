@@ -1,1 +1,1 @@
-# B75Dvt82ffIiI5tp
+Implemented a three-layer convolutional neural network predictive model for image analysis with Max 2-dimensional pooling, batch normalization and drop out layers to train on a set of images of book pages to determine whether a page was being flipped or not with 95% accuracy. This provides a mobile documentation digitalization experience for the visually impaired.
